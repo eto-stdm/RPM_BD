@@ -10,6 +10,7 @@ namespace RPM_BD
     {
         static void Main(string[] args)
         {
+            // ветка master
         }
     }
 }
